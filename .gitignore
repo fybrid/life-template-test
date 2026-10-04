@@ -1,0 +1,18 @@
+# ai agent
+/.claude/*
+!/.claude/settings.json
+!/.claude/skills
+/.codex/*
+!/.codex/config.toml
+
+# local environment
+.env
+.env.*
+
+# local TODO records
+/todo/daily/*
+!/todo/daily/.gitkeep
+/todo/weekly/*
+!/todo/weekly/.gitkeep
+/todo/monthly/*
+!/todo/monthly/.gitkeep

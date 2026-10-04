@@ -1,0 +1,12 @@
+:emoji: Subject
+#
+# Commit body...
+#
+# Rules: AGENTS.md#commit-messages
+# ==================== Emojis ====================
+# ✨  :sparkles: New feature or record system
+# 🔧  :wrench: Workflow or rule improvement
+# ♻️  :recycle: Refactoring or reorganization
+# 📚  :books: Documentation
+# 🐛  :bug: Fix or correction
+# 🎉  :tada: Initial commit
